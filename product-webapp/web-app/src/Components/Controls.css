@@ -1,0 +1,17 @@
+.Action-container {
+    display: flex;
+    border: 2px solid red;
+    /* background: #161929; */
+    border: 1.5px solid #1F2335;
+    backdrop-filter: blur(4px);
+    height: 50px;
+}
+
+.Button-controls {
+    border: 2px solid rgba(75, 155, 35, 0.334);
+    background-color: hsl(0, 80%, 41%);
+    height: 70px;
+    width: 70px;
+    border-radius: 10.25rem;
+    justify-content: center;
+}

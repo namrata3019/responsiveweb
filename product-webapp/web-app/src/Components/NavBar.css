@@ -1,0 +1,23 @@
+.navbar-custom{
+    background-color: #5824d4;
+    
+     
+    }
+    #Nav-Btn:hover{
+        color: black;
+        border: 2px solid #fff !important;
+    }
+    .navbar-custom .navbar-nav > Link:hover {
+        color:black;
+      }
+    
+      #Nav-Link:hover {
+       
+        color:black 
+        }
+        #Nav-Link{
+            color: #fff;
+        }
+        #collasible-nav-dropdown::after{
+            display: none; 
+         }

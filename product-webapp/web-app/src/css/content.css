@@ -1,0 +1,49 @@
+.content {
+  border: 1px solid #5824D4;
+  margin-left: 5%;
+  display: flex;
+  flex-direction: column;
+  position: absolute !important;
+  margin-left: 68.9%;
+  border: 1px solid #5824D4;
+  max-height: 900px;
+  overflow-y: scroll;
+  width: 30% !important;
+}
+
+.css-10hburv-MuiTypography-root {
+  line-height: 1.8 !important;
+  font-size: 1.2rem !important;
+  font-weight: bold !important;
+}
+.css-t4j5r6 {
+  max-width: 300px !important;
+}
+
+.courseName{
+  font-size: small;
+  white-space: nowrap; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+  max-width: 450px;
+  margin-right: 15px;
+  background-color: #5924d422;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.course-btn{
+  margin-left: 2% !important;
+}
+.playIcon {
+    background: url("./play.svg") no-repeat top left;
+    background-size: contain;
+    cursor: pointer;
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 100% ;
+    border: 1px solid #fff;
+}
+.scroll-black *::-webkit-scrollbar {
+	width: 7px;
+}

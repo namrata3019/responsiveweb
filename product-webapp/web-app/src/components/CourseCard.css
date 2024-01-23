@@ -1,0 +1,100 @@
+
+    .tittle{
+        background-color: #E6E6FA;
+        padding-left: 10px;
+        padding-top: 10px;
+        padding-bottom: 5px;
+        text-align: left;
+        font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 1.75rem;
+        font-family: sans-serif;
+    }
+    .created{
+        text-align: left;
+    }
+
+    .share{
+        text-align: end;
+    }
+    ul {
+        list-style-type: initial;
+    }
+    .Description{
+        padding-left: 30px;
+       padding-right: 30px;
+       padding-top: 100px;
+    }
+    
+    .body{
+       padding-left: 30px;
+       padding-right: 30px;
+       text-align:justify;
+       padding-top: 10px;
+       padding-bottom: 10px;
+       outline-style: auto;
+       word-spacing: 5px;
+       background-color:#E6E6FA;
+      
+    }
+  
+
+    .CourseContent{
+padding-left: 20px;
+}
+.description{
+text-align: left;
+outline-style: auto;
+padding-top: 20px;
+padding-bottom: 20px;
+margin-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin-right: 20px;
+margin-bottom: 20px;
+}
+.topics{
+text-align: left;
+outline-style: auto;
+padding-top: 20px;
+margin-top: 10px;
+padding-left: 10px;
+padding-right: 10px;
+margin-right: 20px;
+margin-bottom: 10px;
+padding-bottom: 20px;
+}
+
+.shareBody{
+    display:flex;
+    flex-wrap:wrap;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-right: 30px;
+    text-align:justify;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    /* outline-style: auto; */
+    word-spacing: 5px;
+    background-color:#E6E6FA;
+ }
+
+ .course-button {
+ background: #5824D4;
+  color: #fff;
+  padding: 7px 25px;
+  border-radius: 50px;
+  font-size: large;
+ }
+
+ .btn-close {
+    
+    background: transparent url("./cross.svg") center/1em auto no-repeat;
+}
+
+
+    
+    
+    

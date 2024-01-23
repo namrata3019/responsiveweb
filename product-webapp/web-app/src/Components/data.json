@@ -1,0 +1,64 @@
+{
+  "currentUser": {
+    "image": {
+      "png": "./images/avatars/image-juliusomo.png",
+      "webp": "./images/avatars/image-juliusomo.webp"
+    },
+    "username": "Namrata"
+  },
+  "comments": [
+    {
+      "id": 1,
+      "content": "Very informative course",
+      "createdAt": "Yesterday",
+      "score": 12,
+      "user": {
+        "username": "Aman"
+      },
+      "replies": []
+    },
+    {
+      "id": 2,
+      "content": "Great video",
+      "createdAt": "Yesterday",
+      "score": 5,
+      "user": {
+        "image": {
+          "png": "./images/avatars/image-maxblagun.png",
+          "webp": "./images/avatars/image-maxblagun.webp"
+        },
+        "username": "Lakshdip"
+      },
+      "replies": [
+        {
+          "id": 3,
+          "content": "Very nice content",
+          "createdAt": "1 hour ago",
+          "score": 4,
+          "replyingTo": "maxblagun",
+          "user": {
+            "image": {
+              "png": "./images/avatars/image-ramsesmiron.png",
+              "webp": "./images/avatars/image-ramsesmiron.webp"
+            },
+            "username": "Kunal"
+          }
+        },
+        {
+          "id": 4,
+          "content": "Great content , must watch",
+          "createdAt": "20 minutes ago",
+          "score": 2,
+          "replyingTo": "ramsesmiron",
+          "user": {
+            "image": {
+              "png": "./images/avatars/image-juliusomo.png",
+              "webp": "./images/avatars/image-juliusomo.webp"
+            },
+            "username": "Suma"
+          }
+        }
+      ]
+    }
+  ]
+}

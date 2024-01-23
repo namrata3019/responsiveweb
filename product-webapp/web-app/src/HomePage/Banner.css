@@ -1,0 +1,17 @@
+.banner_h2 {
+  font-weight: 600;
+  line-height: 55px;
+}
+
+.banner_content {
+    padding-top: 70px;
+    padding-left: 80px;
+}
+/* section {
+    padding-top: 70px;
+    padding-bottom: 70px;
+} */
+.image{
+  padding-left: 6%;
+  width: 45%;
+}
